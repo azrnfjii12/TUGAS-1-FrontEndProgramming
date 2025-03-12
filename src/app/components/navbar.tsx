@@ -32,7 +32,7 @@ const Navbar = () => {
                   Room
                 </a>
                 <a
-                  href="/user"
+                  href="/users"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                 >
                   User
